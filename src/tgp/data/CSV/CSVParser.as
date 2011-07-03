@@ -1,4 +1,4 @@
-package bbc.news.utils
+package tgp.data.CSV
 {
 	import flash.events.Event;
 	import flash.net.URLLoader;

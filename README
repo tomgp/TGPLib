@@ -1,6 +1,6 @@
 My commonly used AS3 libraries
 
-CSVParser.as      - naievley parses a CSV file contents
+CSVParser.as      - naievly parses a CSV file contents
 CSVRecordSet.as   - puts CSV file contents into simple indexable data structure
 
 ----
